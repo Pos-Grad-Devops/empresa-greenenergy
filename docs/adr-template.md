@@ -50,3 +50,17 @@ Descreva objetivamente a decisão arquitetural adotada.
 ## 6. Revisão e Próximos Passos
 - Pontos a revisar no futuro:
 - Condições para reavaliar esta ADR:
+
+
+## Anexos e Referências
+- Diagramas/artefatos que sustentam a decisão:
+- RFCs, documentos e benchmarks relacionados:
+- Links de PRs/issues vinculados à decisão:
+- Referências externas relevantes:
+
+## Checklist de Qualidade (pré-entrega)
+- [ ] Contexto e problema estão claramente definidos.
+- [ ] Alternativas relevantes foram avaliadas.
+- [ ] Decisão e justificativa estão objetivas.
+- [ ] Consequências e trade-offs estão explícitos.
+- [ ] Premissas, lacunas, riscos e metadados preenchidos.
