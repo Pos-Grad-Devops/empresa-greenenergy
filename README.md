@@ -14,3 +14,17 @@ Produzir ADRs (Architecture Decision Records) para registrar decisões arquitetu
 2. Trabalhe exclusivamente no fork do grupo.
 3. Preencha a documentação na pasta `docs/`, usando `docs/adr-template.md` como referência e consolidando o resultado em `docs/adr-001.md`.
 4. Entregue o link do fork do grupo conforme orientação da disciplina.
+
+## Ferramentas recomendadas
+- Registro de decisão em Markdown: VS Code.
+- Comparação de alternativas e trade-offs: matriz em planilha ou quadro no Miro.
+- Diagrama de contexto de apoio (opcional): draw.io.
+
+## Uso responsável de IA
+- IA pode auxiliar na formulação de alternativas e análise de trade-offs.
+- A decisão final deve refletir o contexto do cenário em `src/`.
+- Toda suposição não explícita deve ser registrada como premissa.
+
+## Entregável esperado com apoio das ferramentas
+- Documento final `docs/adr-001.md` completo, coerente e justificável.
+- Consequências, riscos e lacunas descritos com objetividade técnica.
